@@ -1,0 +1,125 @@
+﻿body {
+    
+}
+.bgheader {
+    background-color: #80b412;
+}
+
+.Rectangle_2 {
+    background-color: rgb(128, 180, 18);
+    position: absolute;
+    left: 0px;
+    top: 100px;
+    width:101%;
+    height: 598px;
+}
+.fb {
+    border-radius: 50%;
+    position: absolute;
+    left: 154px;
+    top: 35px;
+    width: 30px;
+    height: 30px;
+}
+.Layer_2 {
+    background-image: url("Layer 2.png");
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 101%;
+    height: 100px;
+}
+.fb2 {
+    position: absolute;
+    left: 164px;
+    top: 40px;
+    width: 10px;
+    height: 20px;
+}
+.tw {
+    border-radius: 50%;
+    position: absolute;
+    left: 199px;
+    top: 35px;
+    width: 30px;
+    height: 30px;
+}
+.tw2{
+
+    position: absolute;
+    left: 206px;
+    top: 43px;
+    width: 17px;
+    height: 14px;
+}
+.g {
+    border-radius: 50%;
+    position: absolute;
+    left: 244px;
+    top: 35px;
+    width: 30px;
+    height: 30px;
+}
+.g2{
+    position: absolute;
+    left: 251px;
+    top: 41px;
+    width: 17px;
+    height: 18px;
+}
+.yt{
+    border-radius: 50%;
+    position: absolute;
+    left: 289px;
+    top: 35px;
+    width: 30px;
+    height: 30px;
+}
+.yt2 {
+    position: absolute;
+    left: 297px;
+    top: 40px;
+    width: 15px;
+    height: 19px;
+}
+.Layer24 {
+    position:absolute;
+    top :24px;
+    left: 485px;
+
+}
+.textlogo {
+    font-size: 16px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 741.937px;
+    top: 24px;
+}
+.Backyard_Landscaping {
+    font-size: 13.5px;
+    font-family: "Exo2";
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.926;
+    text-align: left;
+    position: absolute;
+    left: 484.892px;
+    top: 47px;
+    width: 200.093px;
+    height: 12.97px;
+}
+.slide1 {
+    position: absolute;
+    top: 93px;
+    left: -8px;
+    width: 102%;
+}
+
+
+
+
+
+
